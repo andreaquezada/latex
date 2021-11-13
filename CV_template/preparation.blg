@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: preparation.aux
+The style file: plainyearrev.bst
+skip is an illegal style-file command---line 1 of file plainyearrev.bst
+ : skip
+ :      to content
+sign is an illegal style-file command---line 10 of file plainyearrev.bst
+ : sign
+ :      in
+curriculum is an illegal style-file command---line 26 of file plainyearrev.bst
+ : curriculum
+ :           _Vita/plainyr-rev.bst
+Database file #1: preparation.bib
+Warning--missing year in Quezada2021, using 9999 for sorting
+Warning--missing year in Quezada2021b, using 9999 for sorting
+Warning--empty year in Quezada2021
+Warning--empty journal in Quezada2021b
+Warning--empty year in Quezada2021b
+© is an illegal style-file command---line 1329 of file plainyearrev.bst
+ : ©
+ :    2020 GitHub, Inc.
+You've used 2 entries,
+            2507 wiz_defined-function locations,
+            583 strings with 4880 characters,
+and the built_in function-call counts, 1533 in all, are:
+= -- 250
+> -- 41
+< -- 0
++ -- 88
+- -- 114
+* -- 55
+:= -- 291
+add.period$ -- 5
+call.type$ -- 2
+change.case$ -- 11
+chr.to.int$ -- 8
+cite$ -- 9
+duplicate$ -- 104
+empty$ -- 35
+format.name$ -- 14
+if$ -- 310
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 2
+newline$ -- 12
+num.names$ -- 4
+pop$ -- 21
+preamble$ -- 1
+purify$ -- 9
+quote$ -- 0
+skip$ -- 36
+stack$ -- 0
+substring$ -- 66
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 14
+width$ -- 3
+write$ -- 18
+(There were 4 error messages)

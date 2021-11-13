@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: proceedings.aux
+The style file: plainyearrev.bst
+skip is an illegal style-file command---line 1 of file plainyearrev.bst
+ : skip
+ :      to content
+sign is an illegal style-file command---line 10 of file plainyearrev.bst
+ : sign
+ :      in
+curriculum is an illegal style-file command---line 26 of file plainyearrev.bst
+ : curriculum
+ :           _Vita/plainyr-rev.bst
+Database file #1: proceedings.bib
+Warning--string name "s1" is undefined
+--line 18 of file proceedings.bib
+© is an illegal style-file command---line 1329 of file plainyearrev.bst
+ : ©
+ :    2020 GitHub, Inc.
+You've used 2 entries,
+            2507 wiz_defined-function locations,
+            589 strings with 4820 characters,
+and the built_in function-call counts, 1089 in all, are:
+= -- 148
+> -- 31
+< -- 2
++ -- 30
+- -- 56
+* -- 51
+:= -- 183
+add.period$ -- 8
+call.type$ -- 2
+change.case$ -- 9
+chr.to.int$ -- 8
+cite$ -- 4
+duplicate$ -- 58
+empty$ -- 57
+format.name$ -- 10
+if$ -- 226
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 2
+newline$ -- 13
+num.names$ -- 4
+pop$ -- 17
+preamble$ -- 1
+purify$ -- 7
+quote$ -- 0
+skip$ -- 37
+stack$ -- 0
+substring$ -- 66
+swap$ -- 8
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 14
+width$ -- 3
+write$ -- 26
+(There were 4 error messages)

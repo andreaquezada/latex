@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: underreview.aux
+The style file: plainyearrev.bst
+skip is an illegal style-file command---line 1 of file plainyearrev.bst
+ : skip
+ :      to content
+sign is an illegal style-file command---line 10 of file plainyearrev.bst
+ : sign
+ :      in
+curriculum is an illegal style-file command---line 26 of file plainyearrev.bst
+ : curriculum
+ :           _Vita/plainyr-rev.bst
+Database file #1: underreview.bib
+Warning--missing year in Hoyer2021, using 9999 for sorting
+Warning--empty year in Hoyer2021
+© is an illegal style-file command---line 1329 of file plainyearrev.bst
+ : ©
+ :    2020 GitHub, Inc.
+You've used 1 entry,
+            2507 wiz_defined-function locations,
+            579 strings with 4605 characters,
+and the built_in function-call counts, 826 in all, are:
+= -- 129
+> -- 28
+< -- 0
++ -- 47
+- -- 60
+* -- 34
+:= -- 160
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 7
+chr.to.int$ -- 4
+cite$ -- 4
+duplicate$ -- 52
+empty$ -- 18
+format.name$ -- 10
+if$ -- 164
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 1
+newline$ -- 8
+num.names$ -- 2
+pop$ -- 11
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 18
+stack$ -- 0
+substring$ -- 33
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 7
+width$ -- 2
+write$ -- 11
+(There were 4 error messages)

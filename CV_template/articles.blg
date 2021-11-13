@@ -1,0 +1,79 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: articles.aux
+The style file: plainyearrev.bst
+skip is an illegal style-file command---line 1 of file plainyearrev.bst
+ : skip
+ :      to content
+sign is an illegal style-file command---line 10 of file plainyearrev.bst
+ : sign
+ :      in
+curriculum is an illegal style-file command---line 26 of file plainyearrev.bst
+ : curriculum
+ :           _Vita/plainyr-rev.bst
+Database file #1: articles.bib
+You're missing a field name---line 27 of file articles.bib
+ : 
+ : %note = {IF: 2.952. Q1. }, % Citations: 3
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 42 of file articles.bib
+ : 
+ : %note = {IF: 2.705. Q2. },  Citations: 1
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 55 of file articles.bib
+ : 
+ : %note = {IF: 4.907. Q1. }, % Citations: 15
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 71 of file articles.bib
+ : 
+ : %note = {IF: 2.274. Q1. }, % Citations: 5
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+© is an illegal style-file command---line 1329 of file plainyearrev.bst
+ : ©
+ :    2020 GitHub, Inc.
+You've used 5 entries,
+            2507 wiz_defined-function locations,
+            613 strings with 6350 characters,
+and the built_in function-call counts, 3568 in all, are:
+= -- 430
+> -- 205
+< -- 0
++ -- 129
+- -- 194
+* -- 267
+:= -- 627
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 48
+chr.to.int$ -- 20
+cite$ -- 10
+duplicate$ -- 132
+empty$ -- 131
+format.name$ -- 76
+if$ -- 680
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 5
+newline$ -- 28
+num.names$ -- 10
+pop$ -- 48
+preamble$ -- 1
+purify$ -- 43
+quote$ -- 0
+skip$ -- 81
+stack$ -- 0
+substring$ -- 253
+swap$ -- 10
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 42
+width$ -- 6
+write$ -- 57
+(There were 8 error messages)
